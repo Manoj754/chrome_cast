@@ -98,9 +98,11 @@ packages:
   flutter_video_cast:
     dependency: "direct main"
     description:
-      path: "D:/jaydip/flutter_cast/flutter_video_cast"
-      relative: false
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "01fdfb7ded24e9c33b1efacc3df73c0e0cab8cbe"
+      url: "https://github.com/ManojKukadiya92/cast_pckage.git"
+    source: git
     version: "1.0.4"
   flutter_web_plugins:
     dependency: transitive
